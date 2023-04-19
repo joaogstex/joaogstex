@@ -1,7 +1,7 @@
 ### Olá! Me chamo Gustavo, sou um amante da programação e do aprendizado! 👋
 
 - 🔭 Trabalho com front-end e back-end
-- 🌱 Atualmente estudando Java, HTML, CSS, MySQL e Web
+- 🌱 Atualmente estudando Java, HTML, CSS, MySQL. As vezes JS e as vezes PHP.
 - 📫 Me contate no e-mail: joaogstex@gmail.com
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: IntelliJ > Eclipse
