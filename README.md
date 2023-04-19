@@ -3,8 +3,7 @@
 - 🔭 Trabalho com front-end e back-end
 - 🌱 Atualmente estudando Java, HTML, CSS, MySQL. As vezes JS e as vezes PHP.
 - 📫 Me contate no e-mail: joaogstex@gmail.com
-- 😄 Pronomes: ele/dele
-- ⚡ Fun fact: IntelliJ > Eclipse
+- ⚡ Fun fact: IntelliJ > Eclipse (mas só as vezes, jamais trocarei meu eclipse)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Guga-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
