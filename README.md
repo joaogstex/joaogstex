@@ -1,9 +1,8 @@
 ### Olá! Me chamo Gustavo, sou um amante da programação e do aprendizado! 👋
 
-- 🔭 Trabalho com front-end e back-end
-- 🌱 Atualmente estudando Java, HTML, CSS, MySQL. As vezes JS e as vezes PHP.
-- 📫 Me contate no e-mail: joaogstex@gmail.com
-- ⚡ Fun fact: IntelliJ > Eclipse (mas só as vezes, jamais trocarei meu eclipse)
+- 🔭 I enjoy coding not only back-end but also front-end
+- 🌱 I'm currently studying Java, MySQL, JavaScript, React and React Native.
+- 📫 Contact me: joaogstex@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Guga-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
