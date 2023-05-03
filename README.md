@@ -1,4 +1,4 @@
-### Olá! Me chamo Gustavo, sou um amante da programação e do aprendizado! 👋
+### Hello! I'm Gustavo, a lover of programming and apprenticeship! 👋
 
 - 🔭 I enjoy coding not only back-end but also front-end
 - 🌱 I'm currently studying Java, MySQL, JavaScript, React and React Native.
