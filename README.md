@@ -2,7 +2,7 @@
 
 - 🔭 I enjoy coding not only back-end but also front-end
 - 🌱 I'm currently studying Java, MySQL, JavaScript, React and React Native.
-- 📫 Contact me: joaogstex@gmail.com
+Residing in Salvador, Bahia (synonyms of carnaval)
 
 ![Gustavo's github status](https://github-readme-stats.vercel.app/api?username=joaogstex&theme=codeSTACKr&show_icons=true)
 
