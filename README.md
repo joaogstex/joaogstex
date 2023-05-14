@@ -5,6 +5,7 @@
 -  Currently residing in Salvador, Bahia (synonyms of carnaval and feijoada)
 
 ![Gustavo's github status](https://github-readme-stats.vercel.app/api?username=joaogstex&theme=codeSTACKr&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogstex)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Guga-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
