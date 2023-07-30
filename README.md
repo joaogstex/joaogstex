@@ -1,7 +1,7 @@
 ### Hello! I'm Gustavo, a lover of programming and apprenticeship! 👋
 
 - 🔭 I enjoy coding not only back-end but also front-end
-- 🌱 I'm currently studying Java, MySQL, JavaScript, NodeJS, React and React Native.
+- 🌱 I'm currently studying Java, PHP, Spring Boot, Laravel, SQL and JavaScript.
 -  Currently residing in Salvador, Bahia (synonyms of carnaval and feijoada)
 
 ![Gustavo's github status](https://github-readme-stats.vercel.app/api?username=joaogstex&theme=codeSTACKr&show_icons=true)
