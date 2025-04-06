@@ -1,11 +1,12 @@
 
-```javascript
-console.log("Hello, World! I'm Gustavo");
+```java
+System.out.println("Olá! Me chamo Gustavo!");
 
-const aboutMe = {
-  name: "Gustavo Silva",
-  role: "Back-end dev",
-  interests: ["Java", "SpringBoot", "React", "SQL"],
-  funFact: "I love coding as much as I love Bahia!"
-};
+String name = "Gustavo Silva";
+String role = "Back-end dev";
+String[] interests = {"Java", "SpringBoot", "React.js", "SQL"};
+String funFact = "Eu amo minha mulher!";
+
+System.out.print("Nome: " + name + ", Profissão: " + role + ", Interesses: " + Arrays.toString(interests) + ", Fato curioso: " + funFact);
+
 ```
